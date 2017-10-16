@@ -1,0 +1,1 @@
+# magento-couchbase-phone-gap
